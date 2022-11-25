@@ -17,7 +17,7 @@ The game is object-oriented.The code was divided thanks to the use of ES6 module
 - CSS
 - [SVG SILH](https://svgsilh.com/) - Used to get some icons
 - [1001 Fonts](https://www.1001fonts.com/) - Used to get fonts
-- Google Fonts
+- [Google Fonts](https://fonts.google.com/) - Used to get fonts
 
 ## Demo
 
