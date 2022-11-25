@@ -1,6 +1,6 @@
 # Saper
 
-Classic Saper Game written in JavaScript (ES5+) with classic Windows design written in CSS.
+Classic Saper Game written in JavaScript (ES5+) with Windows classic design written in CSS.
 
 ## Descriptions
 
